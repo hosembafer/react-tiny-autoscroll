@@ -2,4 +2,4 @@
 
 Automatically scrolls the element when the cursor approaches the boundaries.
 
-[Demo](https://react-tiny-autoscroll-example.netlify.app)
+<a target="_blank" rel="noopener" href="https://react-tiny-autoscroll.netlify.app">Demo</a>
