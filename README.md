@@ -1,4 +1,6 @@
 # react-tiny-autoscroll
+![npm version](https://img.shields.io/npm/v/react-tiny-autoscroll?logo=npm)
+![npm downloads](https://img.shields.io/npm/dw/react-tiny-autoscroll?logo=npm)
 
 Automatically scrolls the element when the cursor approaches the boundaries.
 
@@ -9,13 +11,13 @@ Mostly helpful when used in combination with drag and drop-like components which
 ## Install via [npm](https://www.npmjs.com/package/react-tiny-autoscroll)
 
 ```shell
-yarn add react-tiny-autoscroll
+npm install react-tiny-autoscroll
 ```
 
 or
 
 ```shell
-npm install react-tiny-autoscroll
+yarn add react-tiny-autoscroll
 ```
 
 ## Usage
