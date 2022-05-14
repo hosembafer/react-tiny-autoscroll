@@ -1,6 +1,6 @@
 {
   "name": "react-tiny-autoscroll",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Automatically scrolls the element when the cursor approaches the boundaries.",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
@@ -18,7 +18,8 @@
   ],
   "author": "Rafael Hovhannisyan <hovhannisian.rafael@gmail.com>",
   "files": [
-    "lib/**/*", "/README.md"
+    "lib/**/*",
+    "/README.md"
   ],
   "license": "MIT",
   "repository": {
