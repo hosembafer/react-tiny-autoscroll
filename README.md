@@ -6,7 +6,7 @@ Automatically scrolls the element when the cursor approaches the boundaries.
 
 Mostly helpful when used in combination with drag and drop-like components which do not support scrollable containers.
 
-## Install via [npm](https://www.npmjs.com/package/react-swipe-to-dismiss)
+## Install via [npm](https://www.npmjs.com/package/react-tiny-autoscroll)
 
 ```shell
 yarn add react-tiny-autoscroll
