@@ -4,7 +4,7 @@ Automatically scrolls the element when the cursor approaches the boundaries.
 
 ### [Demo](https://react-tiny-autoscroll-example.netlify.app)
 
-Mostly useful when used in combination with drag and drop-like components which do not support scrollable containers.
+Mostly helpful when used in combination with drag and drop-like components which do not support scrollable containers.
 
 ## Install
 
