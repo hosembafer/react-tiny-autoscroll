@@ -18,12 +18,12 @@
   ],
   "author": "Rafael Hovhannisyan <hovhannisian.rafael@gmail.com>",
   "files": [
-    "lib/**/*"
+    "lib/**/*", "/README.md"
   ],
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hosembafer/react-autoscroll.git"
+    "url": "https://github.com/hosembafer/react-autoscroll.git"
   },
   "devDependencies": {
     "tslint": "^6.1.3",
