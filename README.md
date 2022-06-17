@@ -2,6 +2,7 @@
 [![npm version](https://img.shields.io/npm/v/react-tiny-autoscroll?logo=npm)](https://www.npmjs.com/package/react-tiny-autoscroll)
 [![npm downloads](https://img.shields.io/npm/dw/react-tiny-autoscroll?logo=npm)](https://www.npmjs.com/package/react-tiny-autoscroll)
 [![npm size](https://img.shields.io/bundlephobia/minzip/react-tiny-autoscroll?logo=npm)](https://www.npmjs.com/package/react-tiny-autoscroll)
+![commit activity](https://img.shields.io/github/commit-activity/m/hosembafer/react-tiny-autoscroll)
 ![license](https://img.shields.io/github/license/hosembafer/react-tiny-autoscroll)
 
 Automatically scrolls the element when the cursor approaches the boundaries.
